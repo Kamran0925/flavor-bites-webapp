@@ -1,2 +1,2 @@
 # Tasty_Foods
-Tasty Foods is restaurant which provides online food delivery
+Tasty Foods is restaurant website which provides online food delivery
